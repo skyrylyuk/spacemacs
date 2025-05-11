@@ -290,7 +290,7 @@
       "disabledUnderlineColor": "#806919",
       "contentAreaColor": "#B2B2B2",
       "hoverColor": "#34363b",
-      "focusColor": "#34363b"
+      "focusColor": "#FFFF3b"
     },
     "TableHeader": {
       "cellBorder": "5,0,5,0",
